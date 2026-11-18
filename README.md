@@ -56,7 +56,7 @@ Tree cover loss year (Hansen GFC, 2011–2025) inside the Legal Amazon:
 
 | File | Description |
 |---|---|
-| `Annual_Deforestation_GFW.ipynb` | Notebook: computes yearly loss with Google Earth Engine and makes the charts |
+| `Annual_Deforestation.ipynb` | Notebook: computes yearly loss with Google Earth Engine and makes the charts |
 | `amazonia_loss_by_year.csv` | Hansen GFC tree cover loss per year (ha) |
 | `amazonia_mapbiomas_defor_by_year.csv` | MapBiomas deforestation of primary and secondary vegetation per year (ha) |
 | `amazonia_prodes_defor_by_year.csv` | PRODES official rates per year (km² and ha) |
